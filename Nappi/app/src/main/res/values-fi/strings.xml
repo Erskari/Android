@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nappi</string>
+    <string name="click_me">Klikkaa mua!</string>
+    <string name="default_text">Klikkaa vaihtaaksesi minut!</string>
+    <string name="button_clicked">Nappia painettiin!</string>
+</resources>
