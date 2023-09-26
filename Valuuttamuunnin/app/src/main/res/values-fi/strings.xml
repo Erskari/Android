@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Valuuttamuunnin</string>
+    <string name="source_label">Lähde valuutta</string>
+    <string name="destination_label">Kohde valuutta</string>
+    <string name="conversion_rate_label">Vaihtokurssi</string>
+    <string name="back_button_label">Takaisin</string>
+    <string name="swap_button_label">Vaihda</string>
+    <string name="convert_button_label">Muunna</string>
+    <string name="settings_button_label">Asetukset</string>
+</resources>

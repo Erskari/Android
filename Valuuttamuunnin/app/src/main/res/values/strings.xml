@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="source_label">Source Currency</string>
+    <string name="destination_label">Destination Currency</string>
+    <string name="conversion_rate_label">Conversion Rate</string>
+    <string name="back_button_label">Back</string>
+    <string name="swap_button_label">Swap</string>
+    <string name="convert_button_label">Convert</string>
+    <string name="settings_button_label">Settings</string>
+</resources>
